@@ -1,4 +1,4 @@
-# Olá! Sou Élidy Izídio, Revenue Automation Architect 👋
+# Olá! Sou Élidy Izídio, Engenheira de Automações com foco em SalesOps e RevOps 👋
 
 Bem-vindo ao meu GitHub! Aqui, demonstro minha expertise em integrar marketing digital, vendas B2B, análise de dados e automações para otimizar Sales Ops e Rev Ops. Como RAA, arquiteto soluções data-driven que eliminam silos, automatizam fluxos de receita e impulsionam crescimento em ambientes B2B.
 
