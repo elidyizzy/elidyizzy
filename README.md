@@ -4,10 +4,11 @@ Bem-vindo ao meu GitHub! Aqui, demonstro minha expertise em integrar marketing d
 
 ## Sobre Mim
 - **Background**: Bacharel em Comunicacao Social, com transicoes para marketing digital, vendas B2B, engenharia de dados (Python/SQL/AWS/GCP) e gestao de automacoes.
-- **Foco Atual**: Crio "revenue flywheels" - automacoes que conectam CRMs (ex.: HubSpot/Salesforce) com analise de dados para prever revenue e reduzir ciclos de vendas.
+- **Foco Atual**: Crio "revenue flywheels" - automacoes que conectam CRMs com analise de dados para prever revenue e reduzir ciclos de vendas.
 - **Certificacoes**: HubSpot RevOps, Google Cloud - Alinhado com tendencias 2026 em IA e compliance LGPD.
 
 ## Habilidades Principais
+- **IA:** Claude Code, Open Claw, Google Ai Studio
 - **Dados & Cloud**: Python, SQL, AWS, GCP, Docker, Terraform
 - **BI & Visualizacao**: Power BI, Tableau (integracoes)
 - **Automacoes & Ops**: Zapier, Make, API integrations para RevOps
